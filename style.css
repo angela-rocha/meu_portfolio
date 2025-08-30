@@ -1,0 +1,139 @@
+/* reset simples */
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background: #f9f9f9;
+    color: #333;
+}
+
+/* navbar */
+header{
+background: #111;
+padding: 1rem 0;
+}
+
+nav{
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+}
+
+nav h1{
+    color: #fff;
+    display: flex;
+}
+
+.nav-links{
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li{
+    margin-left: 1.5rem;
+}
+
+.nav-links a{
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.nav-links a:hover{
+    color: #00adb5
+}
+
+/* hero */
+.hero{
+    background: #00adb5;
+    color: #fff;
+    padding: 4rem 1rem;
+    text-align: center;
+}
+
+.hero h2 span{
+    color: #222;
+}
+
+.btn{
+    display: inline-block;
+    padding: 0.7rem 1.5rem;
+    margin-top: 1rem;
+    background: #222;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.btn:hover{
+    background: #fff;
+    color: #222;
+}
+
+/* sections */
+
+.sections{
+    max-width: 1100px;
+    margin: 3rem auto;
+    padding: 0 1rem;
+    text-align: center;
+}
+
+.section h2{
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    color: #00adb5;
+}
+
+/* projetos */
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1rf));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.card{
+    background: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
+
+.card img{
+    width: 100%;
+    border-radius: 100%;
+}
+
+.card:hover{
+    transform: translateY(-5px);
+}
+
+.card a{
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #00adb5;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* footer */
+
+footer{
+    background: #111;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 3rem;
+}
