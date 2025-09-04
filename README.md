@@ -5,7 +5,7 @@
 <img width="1024" height="720" alt="Portfólio _ Angela Rocha - Google Chrome 31_08_2025 13_17_02" src="https://github.com/user-attachments/assets/b193b0f2-d35d-433a-816c-8cffd2009e39" />
 
 
-# 🌐 Meu Portfólio Front-End
+## Meu Portfólio Front-End
 
 Bem-vindo(a) ao meu portfólio!  
 Aqui você encontra uma coleção dos meus projetos desenvolvidos com **HTML**, **CSS** e **JavaScript**.  
