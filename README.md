@@ -1,6 +1,6 @@
 ## ***EM CONSTRUÇÃO
 
-## Preview
+## Prévia
 
 
 https://github.com/user-attachments/assets/ed6d2ba5-74e1-4adc-bd75-1f053d8fdf45
