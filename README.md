@@ -15,7 +15,7 @@ Este repositório foi criado para apresentar minhas habilidades como desenvolved
 ---
 
 ## 🔗 Acesse o Portfólio Online
-🔗 [Clique aqui para ver meu portfólio publicado no GitHub Pages](https://angela-silva.github.io/meu_portfolio/)  
+🔗 [Clique aqui para ver meu portfólio publicado no GitHub Pages](https://angela-rocha.github.io/meu_portfolio/)  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-greem.svg)](https://opensource.org/licenses/MIT)
 
