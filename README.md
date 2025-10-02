@@ -10,6 +10,7 @@ https://github.com/user-attachments/assets/ed6d2ba5-74e1-4adc-bd75-1f053d8fdf45
 
 Bem-vindo(a) ao meu portfólio!  
 Aqui você encontra uma coleção dos meus projetos desenvolvidos com **HTML**, **CSS** e **JavaScript**.  
+
 Este repositório foi criado para apresentar minhas habilidades como desenvolvedora Front-End e demonstrar minha evolução na área.
 
 ---
